@@ -10,4 +10,6 @@ public class TextClass {
 
     public static String COMPARE_TRIPLETS_BOB = "Bob points: ";
 
+    public static String A_VERY_BIG_SUM = "Very Big Sum: : ";
+
 }
