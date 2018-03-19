@@ -12,4 +12,6 @@ public class TextClass {
 
     public static String A_VERY_BIG_SUM = "Very Big Sum: : ";
 
+    public static String DIAGONAL_DIFFERENCE = "Diagonal Difference: : ";
+
 }
